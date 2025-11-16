@@ -3,6 +3,7 @@ export default {
   lang: 'zh',
   title: '前端面试题库',
   description: "web前端面试,vue面试题,react面试题,js面试题",
+  base: './',
   themeConfig: {
     outline: false,
     aside: false,
